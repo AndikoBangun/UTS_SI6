@@ -56,7 +56,12 @@
                             <!-- <input type="checkbox" name="rememberme" id="rememberme" class="filled-in chk-col-pink"> -->
                             <!-- <label for="rememberme">Remember Me</label> -->
                         </div>
-                        <div class="col-xs-4">
+                        
+                        <div class="col-xs-5">
+                        <button class="btn btn-block bg-info waves-effect"><a href="register">Register </a>
+                        </div>
+
+                        <div class="col-xs-4 right">
                             <button class="btn btn-block bg-info waves-effect" type="submit">Masuk</button>
                         </div>
                     </div>
